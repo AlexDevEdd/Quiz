@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2f696ead164e6c4a95d5ff9b0faec26, type: 3}
+  m_Name: LetterCardData
+  m_EditorClassIdentifier: 
+  _cardData:
+  - _indentifier: A
+    _sprite: {fileID: 4963718625464178563, guid: 3d61aa43b6a77754f92a816e1420f731, type: 3}
+  - _indentifier: B
+    _sprite: {fileID: 7783457984840754399, guid: 3d61aa43b6a77754f92a816e1420f731, type: 3}
+  - _indentifier: C
+    _sprite: {fileID: 3234300448368640894, guid: 3d61aa43b6a77754f92a816e1420f731, type: 3}
+  - _indentifier: D
+    _sprite: {fileID: 7911670913450602933, guid: 3d61aa43b6a77754f92a816e1420f731, type: 3}
+  - _indentifier: F
+    _sprite: {fileID: -6426668015567183463, guid: 3d61aa43b6a77754f92a816e1420f731, type: 3}
+  - _indentifier: G
+    _sprite: {fileID: 216406037199867053, guid: 3d61aa43b6a77754f92a816e1420f731, type: 3}
+  - _indentifier: J
+    _sprite: {fileID: -2756605603065543306, guid: 3d61aa43b6a77754f92a816e1420f731, type: 3}
+  - _indentifier: I
+    _sprite: {fileID: -3541686595128163680, guid: 3d61aa43b6a77754f92a816e1420f731, type: 3}
+  - _indentifier: E
+    _sprite: {fileID: 4652326554734856401, guid: 3d61aa43b6a77754f92a816e1420f731, type: 3}
+  - _indentifier: H
+    _sprite: {fileID: -8235857483100294123, guid: 3d61aa43b6a77754f92a816e1420f731, type: 3}
+  - _indentifier: K
+    _sprite: {fileID: -1127063002332224934, guid: 3d61aa43b6a77754f92a816e1420f731, type: 3}
+  - _indentifier: L
+    _sprite: {fileID: -5901097786099144959, guid: 3d61aa43b6a77754f92a816e1420f731, type: 3}
+  - _indentifier: M
+    _sprite: {fileID: 3295844289267200183, guid: 3d61aa43b6a77754f92a816e1420f731, type: 3}
+  - _indentifier: R
+    _sprite: {fileID: -6342808464625005154, guid: 2e51a178914ebed49960361e6a12cf86, type: 3}
+  - _indentifier: S
+    _sprite: {fileID: 8083504644574312765, guid: 2e51a178914ebed49960361e6a12cf86, type: 3}
+  - _indentifier: U
+    _sprite: {fileID: 3270655726746431581, guid: 2e51a178914ebed49960361e6a12cf86, type: 3}
+  - _indentifier: V
+    _sprite: {fileID: -2983290644488427326, guid: 2e51a178914ebed49960361e6a12cf86, type: 3}
+  - _indentifier: O
+    _sprite: {fileID: 5433449995169814141, guid: 2e51a178914ebed49960361e6a12cf86, type: 3}
+  - _indentifier: Q
+    _sprite: {fileID: -4447791616812998045, guid: 2e51a178914ebed49960361e6a12cf86, type: 3}
+  - _indentifier: W
+    _sprite: {fileID: -9165466868132007793, guid: 2e51a178914ebed49960361e6a12cf86, type: 3}
+  - _indentifier: T
+    _sprite: {fileID: -4461999128152558772, guid: 2e51a178914ebed49960361e6a12cf86, type: 3}
+  - _indentifier: N
+    _sprite: {fileID: 7112752472869403061, guid: 2e51a178914ebed49960361e6a12cf86, type: 3}
+  - _indentifier: P
+    _sprite: {fileID: -4252152113809563852, guid: 2e51a178914ebed49960361e6a12cf86, type: 3}
+  - _indentifier: X
+    _sprite: {fileID: 4461586319009975920, guid: 2e51a178914ebed49960361e6a12cf86, type: 3}
+  - _indentifier: Y
+    _sprite: {fileID: -5001085640463096552, guid: d1c7af82f5327ad4b976ba4440029f16, type: 3}
+  - _indentifier: Z
+    _sprite: {fileID: 3539555106843919260, guid: d1c7af82f5327ad4b976ba4440029f16, type: 3}
